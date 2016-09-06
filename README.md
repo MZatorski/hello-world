@@ -1,4 +1,4 @@
 # hello-world
 
 
-Scriting goes here
+Scripting goes here
